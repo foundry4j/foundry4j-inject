@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="foundry4j-inject logo">
+    <defs>
+        <linearGradient id="foundry4j" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#4F46E5"/>
+            <stop offset="1" stop-color="#0EA5E9"/>
+        </linearGradient>
+    </defs>
+    <rect width="128" height="128" rx="28" fill="url(#foundry4j)"/>
+    <g fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.95">
+        <path d="M38 40 H56 Q68 40 76 56"/>
+        <path d="M38 64 H72"/>
+        <path d="M38 88 H56 Q68 88 76 72"/>
+    </g>
+    <circle cx="36" cy="40" r="8" fill="#FFFFFF"/>
+    <circle cx="36" cy="64" r="8" fill="#FFFFFF"/>
+    <circle cx="36" cy="88" r="8" fill="#FFFFFF"/>
+    <circle cx="84" cy="64" r="12" fill="#FFFFFF"/>
+</svg>
